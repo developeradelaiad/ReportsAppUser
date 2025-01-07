@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0165ff</color>
+    <color name="red">#FF0000</color>
+
+    <color name="rippleColor">#03FF72</color>
+    <color name="green">#025628</color>
+    <color name="indicatorColor">#03FF72</color>
+    <color name="backgroundColor">#FF5722</color>
+    <color name="mainColor">#FF5722</color>
+</resources>
